@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Task 6"
+git branch -M main
+git remote add origin https://github.com/karishmashaik2004/task-6-webapp.git
+git push -u origin main
